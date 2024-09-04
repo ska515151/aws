@@ -1,0 +1,15 @@
+{
+  "name": "aws_git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "file-type": "^19.4.1",
+    "uuidv4": "^6.2.13"
+  }
+}
